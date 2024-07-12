@@ -1,0 +1,35 @@
+{
+	"name": "blueslate",
+	"displayName": "BlueSlate",
+	"description": "A Modern touch to the Default VS Code themes, styled with Tailwind CSS Colors",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.91.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"publisher": "NikhilThorat",
+	"keywords": [
+		"theme",
+		"dark",
+		"dark theme",
+		"blue theme",
+		"themes",
+		"blue",
+		"dark blue",
+		"modern theme",
+		"ui",
+		"ui theme",
+		"modern ui"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "BlueSlate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BlueSlate-color-theme.json"
+			}
+		]
+	}
+}
