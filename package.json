@@ -9,7 +9,12 @@
 	"categories": [
 		"Themes"
 	],
-	"publisher": "NikhilThorat",
+	"icon": "/images/BlueSlate.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Nixt4523/blueslate"
+	},
+	"publisher": "nikhilthorat",
 	"keywords": [
 		"theme",
 		"dark",
